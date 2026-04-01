@@ -1,2 +1,1 @@
 # primo_repository_forndamentidi_informatica_biomed
-# primo_repository_fondamenti_di_informatica_biomed
